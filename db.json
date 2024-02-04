@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "8df2",
+      "name": "Nike",
+      "price": "100$",
+      "type": "Men",
+      "img": "https://intertop.ua/load/CF477/1600x2133/3.jpg"
+    },
+    {
+      "id": "8df3",
+      "name": "Nike",
+      "price": "100$",
+      "type": "Men",
+      "img": "https://intertop.ua/load/CF477/1600x2133/3.jpg"
+    },
+    {
+      "id": "8df4",
+      "name": "Nike",
+      "price": "100$",
+      "type": "Men",
+      "img": "https://intertop.ua/load/CF477/1600x2133/3.jpg"
+    },
+    {
+      "id": "8df5",
+      "name": "Nike",
+      "price": "100$",
+      "type": "Men",
+      "img": "https://intertop.ua/load/CF477/1600x2133/3.jpg"
+    },
+    {
+      "id": "8df6",
+      "name": "Nike",
+      "price": "100$",
+      "type": "Men",
+      "img": "https://intertop.ua/load/CF477/1600x2133/3.jpg"
+    },
+    {
+      "id": "8df7",
+      "name": "Nike",
+      "price": "100$",
+      "type": "Men",
+      "img": "https://intertop.ua/load/CF477/1600x2133/3.jpg"
+    }
+  ]
+}
